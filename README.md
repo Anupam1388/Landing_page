@@ -1,1 +1,4 @@
-# Landing_page
+# Responsive Landing Page
+# HTML
+# CSS
+# JavaScript
