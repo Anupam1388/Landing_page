@@ -1,0 +1,31 @@
+*{box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: #e06767;
+}
+#about_heading,header{text-align: center;
+    background-color: rgb(1, 183, 224);
+    padding: 10px;
+    opacity:0.7;
+    color:rgb(255, 255, 255);
+
+
+}
+
+.videos_left{margin-top: 10rex;
+margin-left: 10rex;
+height: auto;
+width: auto;
+float: left;
+}
+
+
+.about_section{
+    word-wrap:break-word;
+    text-align: center;
+    height:fit-content;
+    width: auto;
+    margin: 20rem;
+}
